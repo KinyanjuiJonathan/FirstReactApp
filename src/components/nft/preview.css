@@ -1,0 +1,23 @@
+.darkblue{
+    height: 100vh;
+    background-color:  hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.card{
+    color: white;
+    justify-content: center;
+    background-color:  hsl(216, 50%, 16%);
+    align-content: center;
+    border-radius: 20px;
+    height: auto;
+    width: 350px;
+    border: azure 1px solid;
+    padding: 20px;
+}
+.cardpic{
+    width: 100%;
+    height: auto;
+}
